@@ -1,0 +1,14 @@
+{
+  "name": "socialnetwork",
+  "version": "1.0.0",
+  "description": "Api for app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^5.12.3",
+    "dotenv": "^10.0.0"
+  }
+}
