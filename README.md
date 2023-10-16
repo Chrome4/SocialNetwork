@@ -1,6 +1,6 @@
-# E-commerce
+# Social Network
 
-This is an E-Commerce mock app. It's mainly for testing routes with insomnia.
+This is an Social media mock app. It's mainly for testing routes with insomnia.
 
 ## Installation
 
